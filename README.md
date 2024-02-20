@@ -11,3 +11,14 @@ DefeatedURansom is an innovative cybersecurity solution designed to combat the e
 **Image-Based Detection with VEA-GANs:** Our solution utilizes VEA-GANs to analyze and interpret system images, enabling it to detect subtle changes or anomalies that may indicate a ransomware attack.
 
 **Threat Actor Identification:** Beyond just detecting potential threats, DefeatedURansom is also capable of identifying the threat actor or group behind the attack. This feature allows for a more proactive approach in dealing with ransomware threats by understanding their source and modus operandi.
+
+## Dependencies
+- Python 3.11
+- NumPy
+- Pandas
+- Matplotlib
+- TensorFlow 2
+- scikit-learn 
+- OpenCV (cv2)
+- chardet
+
