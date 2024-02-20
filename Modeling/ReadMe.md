@@ -12,4 +12,4 @@ VEA-GANs combine the strengths of Variational Autoencoders (VAEs) and Generative
 2. Run the VEA-GAN training script.
 
 ## Output Example:
-<img src="https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/2a2252c4-5eb0-4515-a3f4-834439363c67" width="500" height="400"> ; <img src="https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/d47e9665-7998-4884-ab2b-a831c1c34747" width="500" height="400">
+<img src="https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/2a2252c4-5eb0-4515-a3f4-834439363c67" width="400" height="300"> ; <img src="https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/d47e9665-7998-4884-ab2b-a831c1c34747" width="400" height="300">
