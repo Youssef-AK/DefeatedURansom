@@ -17,4 +17,4 @@ Once the features have been extracted, they are converted into images using vect
 3. Run the image conversion script on the extracted features.
 
 ### Examples:
-<img src="https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/0c90c62c-d434-4ec8-88e2-9592c7e4981b" width="400" height="300"> ; <img src="https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/b7c63ed0-86d7-4228-942c-3372908f0465" width="400" height="300">
+<img src="https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/0c90c62c-d434-4ec8-88e2-9592c7e4981b" width="400" height="300"> ; <img src="https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/b7c63ed0-86d7-4228-942c-3372908f0465" width="500" height="400">
