@@ -1,7 +1,8 @@
 # DefeatedURansom
 DefeatedURansom is an innovative cybersecurity solution designed to combat the ever-evolving landscape of ransomware threats. It leverages the power of Variational Autoencoder Generative Adversarial Networks (VEA-GANs) for image-based detection, providing a robust and efficient defense mechanism against ransomware attacks.
 
-![OIG2](https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/1e143f5a-c336-4042-8104-0f41205bac86)
+![image](https://github.com/Youssef-AK/DefeatedURansom/assets/40705538/99626ff9-1678-4c1d-bcf0-346587895c4a)
+
 
 
 ## Key Features
