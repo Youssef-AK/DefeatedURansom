@@ -47,25 +47,25 @@ pip install -r requirements.txt
 
 ### Setup Instructions
 
-- Clone this repository to your local machine:
+Clone this repository to your local machine:
 ```
 git clone https://github.com/Youssef-AK/DefeatedURansom.git
 ```
 
-- Navigate to the project directory:
+Navigate to the project directory:
 ```
 cd DefeatedURansom
 ```
 
 ### Feature Extractor
 
-- Navigate to the Feature Extractor directory:
+Navigate to the Feature Extractor directory:
 
 ```
 cd Data Preprocessing
 ```
 
-- Run the Feature_Extractor.py script:
+Run the Feature_Extractor.py script:
 
 ```
 python Feature_Extractor.py --input_path /path/to/input/data --output_path /path/to/save/features
@@ -73,15 +73,13 @@ python Feature_Extractor.py --input_path /path/to/input/data --output_path /path
 
 ### VAE-Model
 
-- Navigate to the VAE-Model directory:
+Navigate to the VAE-Model directory:
 ```
 cd Modeling
 ```
 
-- Run the vae_model.py script:
+Run the vae_model.py script:
 ```
 python VEA-GANs.py --input_path /path/to/input/features --output_path /path/to/save/results
 ```
 
-
-#### Thank you for using our solution!
